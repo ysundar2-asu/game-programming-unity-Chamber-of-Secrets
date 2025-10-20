@@ -106,3 +106,6 @@ InitTestScene*.unity*
 **/Builds/
 **/UserSettings/
 .DS_Store
+
+# Local scene backups
+*.backup.unity
